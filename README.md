@@ -8,9 +8,6 @@ This is my first filter and SparkAR seems fun, many more to go. Thank you Facebo
 
 Insta ID: `@vedant.shr1vastava`
 
-Test Link:
-https://www.instagram.com/ar/390971521820383/?ch=NDRlMjZiNjgyNzlmMTMyN2Q5M2Y5ZWQ0MjFiZWRlZTE%3D
-
 Preview Link:
 https://www.instagram.com/ar/390971521820383/
 ___________________________________________________________________________________________________________________________________
