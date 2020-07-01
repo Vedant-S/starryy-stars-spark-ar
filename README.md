@@ -1,4 +1,4 @@
-# Starryy Stars (Spark AR Filter):
+# starryy stars (Spark AR Filter):
 ____________________________________________________________________________________________________________________________________
 Rise and Shine! Star is the Limit.
 
